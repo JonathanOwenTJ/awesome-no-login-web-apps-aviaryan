@@ -105,6 +105,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Tablesmit](https://tablesmit.com) - A minimalist table builder for analytical writing. Build, format, and export structured tables. No signup required.
 
 <a name="drawing"></a>
+* [ResumePlot](https://resumeplot.com/) - Bilingual local resume editor with PDF and JSON export; optional AI assistance, cloud saving and sharing require an account.
 ### Drawing
 
 * [SVG-Edit](https://svgedit.netlify.app/) - Powerful SVG editor with lots of features. Open source.
